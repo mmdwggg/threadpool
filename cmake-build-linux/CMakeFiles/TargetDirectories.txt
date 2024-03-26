@@ -1,3 +1,0 @@
-/home/gly/test/cmake-build-linux/CMakeFiles/rebuild_cache.dir
-/home/gly/test/cmake-build-linux/CMakeFiles/edit_cache.dir
-/home/gly/test/cmake-build-linux/CMakeFiles/c.dir
