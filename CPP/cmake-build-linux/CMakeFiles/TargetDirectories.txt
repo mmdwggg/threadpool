@@ -1,0 +1,3 @@
+/home/gly/server/2/cmake-build-linux/CMakeFiles/rebuild_cache.dir
+/home/gly/server/2/cmake-build-linux/CMakeFiles/edit_cache.dir
+/home/gly/server/2/cmake-build-linux/CMakeFiles/threadpool_server.dir
